@@ -1,2 +1,2 @@
-# SethW-s-AI-Assistant
+# SethW-AI-Assistant
 My version of Chat GPT
